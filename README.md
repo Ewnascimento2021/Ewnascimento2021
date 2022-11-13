@@ -1,7 +1,7 @@
 ### Hello I'm Ewerton 🎮
 
 - 🔭 I’m game Developer
-- 🌱 Learning Desing Patters
+- 🌱 Learning Design Patterns
 
 <div>
   <a href="https://beacons.ai/Ewnascimento2021">
